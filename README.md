@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 🚀 Let’s connect and create something amazing together!   
 
 
-![Metrics](https://metrics.lecoq.io/mk20661?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mk20661=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
