@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 💻 I have a strong passion for technology and innovation, particularly in software development and network systems.  
 🤝 I'm excited to share my projects and collaborate with others in the GitHub community .  
 🚀 Let’s connect and create something amazing together!   
+
+
+![Metrics](https://metrics.lecoq.io/mk20661?template=classic&isocalendar=1&lines=1&stargazers=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=Europe%2FLondon)
