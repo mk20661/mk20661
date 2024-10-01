@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello! I'm a recent graduate from the University of Bristol, where I earned a degree in Computer Science and Electronics 🎓.  
-Currently, I'm pursuing my studies in Internet Environments at University College London (UCL) 🌐.  
-I have a strong passion for technology and innovation, particularly in software development and network systems 💻.  
-I'm excited to share my projects and collaborate with others in the GitHub community 🤝.  
-Let’s connect and create something amazing together! 🚀  
+👋 Hello! 
+🎓 I'm a recent graduate from the University of Bristol, where I earned a degree in Computer Science and Electronics .  
+🌐 Currently, I'm pursuing my studies in Internet Environments at University College London (UCL).  
+💻 I have a strong passion for technology and innovation, particularly in software development and network systems.  
+🤝 I'm excited to share my projects and collaborate with others in the GitHub community .  
+🚀 Let’s connect and create something amazing together!   
