@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello! 
+👋 Hello! I am Hongbing Qiu, and also can call me Brian.  
 🎓 I'm a recent graduate from the University of Bristol, where I earned a degree in Computer Science and Electronics .  
 🌐 Currently, I'm pursuing my studies in Internet Environments at University College London (UCL).  
 💻 I have a strong passion for technology and innovation, particularly in software development and network systems.  
