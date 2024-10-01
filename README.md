@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 🚀 Let’s connect and create something amazing together!   
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mk20661=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk20661)](https://github.com/anuraghazra/github-readme-stats)
